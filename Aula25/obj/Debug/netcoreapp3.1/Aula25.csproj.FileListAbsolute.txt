@@ -1,0 +1,13 @@
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.exe
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.deps.json
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.runtimeconfig.json
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.runtimeconfig.dev.json
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.dll
+C:\Users\Wesle\source\repos\Aula25\bin\Debug\netcoreapp3.1\Aula25.pdb
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.AssemblyInfoInputs.cache
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.AssemblyInfo.cs
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.csproj.CoreCompileInputs.cache
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.dll
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.pdb
+C:\Users\Wesle\source\repos\Aula25\obj\Debug\netcoreapp3.1\Aula25.genruntimeconfig.cache
