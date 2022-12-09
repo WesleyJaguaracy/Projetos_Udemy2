@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
 
-namespace uri1002
+namespace Projetos_Udemy2
 {
-    class Program
+    class Exercicio02
     {
         static void Main(string[] args)
         {
